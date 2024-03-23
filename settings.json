@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "Meliodas_XOXO",
+    "password": "",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "_X_SMP.aternos.me",
+    "port": 28708,
+    "version": "1.20.4"
   },
 
   "position": {
@@ -49,9 +49,9 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
+        "My owner is Madara ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Sayeb Zeby wbara emchi nayek!"
       ]
     },
 
